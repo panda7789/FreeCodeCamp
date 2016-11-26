@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.2.6",
+    "moment": "^2.12.0",
+    "validator": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panda7789/timestamp---microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panda7789/timestamp---microservice/issues"
+  },
+  "homepage": "https://github.com/panda7789/timestamp---microservice#readme"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "api project for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panda7789/whoami.git"
+  },
+  "author": "Lukas Linhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panda7789/whoami/issues"
+  },
+  "homepage": "https://github.com/panda7789/whoami#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
